@@ -1,9 +1,11 @@
 # Hi there, I'm Miray 👋
 
-## I'm a Junior Developer, and Full-Time Learner!!
+## I'm a Junior Developer, and Full-Time Learner!
 
 - 🌱 I’m currently learning React and Tailwind
 - 🥅 2022 Goals: Learn more about Front End Development technologies.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miraymutlu&label=Profile%20views&color=0e75b6&style=flat" alt="miraymutlu" /> </p>
 
 ### Connect with me:
 
@@ -18,6 +20,12 @@
 <br />
 <br />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miraymutlu" alt="miraymutlu" /></a> </p>
+
 <img align="left" alt="miraymutlu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miraymutlu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miraymutlu&" alt="miraymutlu" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraymutlu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/miray-mutlu
