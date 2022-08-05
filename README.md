@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React and Tailwind
 - 🥅 2022 Goals: Learn more about Front End Development technologies.
 
-![](https://komarev.com/ghpvc/?username=miraymutlu&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miraymutlu&label=Profile%20views&color=blueviolet&style=flat" alt="miraymutlu" /> </p>
 
 ### Connect with me:
 
