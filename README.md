@@ -2,7 +2,7 @@
 
 ## I'm a Junior Developer, and Full-Time Learner!
 
-- 🌱 I’m currently learning React and Tailwind
+- 🌱 I’m currently learning React, Redux and Tailwind
 - 🥅 2022 Goals: Learn more about Front End Development technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraymutlu&label=Profile%20views&color=blueviolet&style=flat" alt="miraymutlu" /> </p>
